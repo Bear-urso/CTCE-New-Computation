@@ -48,9 +48,6 @@ Recompensas:
 
 5% para premiar o projeto da 3ª fase.
 
-5% por fase, mais menção no e-book CTCE.
-Como Contribuir
-
 Totalizando 10% em premiações.
 
 Dos valores que a campanha arrecadar poderão ser auditado na rede (Polygon)
