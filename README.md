@@ -1,4 +1,4 @@
-CTCE-Theory:
+CTCE-Proves:
 
 Computação por Topologia de Campos Eletromagnéticos.
 
