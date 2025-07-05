@@ -55,7 +55,7 @@ No endereço que divulgaremos.
 
 90% da arrecadação serão destinados para financiar as fases iniciais do projeto.
 
-Os envolvidos selecionados pararão a integrar o projeto CTCE.
+Os envolvidos selecionados poderão a integrar o projeto CTCE.
 
 Inscreva-se no desafio via formulário (em breve).
 
