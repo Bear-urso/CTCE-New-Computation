@@ -41,7 +41,9 @@ Estou aberto a propostas para difundir, divulgar e escalar essa tecnologia.
 
 Fecharei com o parceiro mais alinhado ao propósito e à ousadia do projeto.
 
-Caso tenha interesse, ficarei honrado em apresentar os detalhes técnicos e a visão completa do projeto.
+Caso tenha interesse, minha honra será em apresentar os detalhes técnicos e a visão completa do projeto.
+
+Fique avontade para explorar nosso conteúdo.
 
 Seja bem-vindo(a)!
 
