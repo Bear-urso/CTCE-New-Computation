@@ -1,0 +1,93 @@
+LICENÇA DE INOVAÇÃO ABERTA E CAPITALIZAÇÃO COLABORATIVA
+(LIACC)
+Versão 3.1
+“Incentivar inovação sem monopólio com crescimento e retorno justo.”
+PREÂMBULO
+Esta licença tem como objetivo promover um novo padrão para inovações tecnológicas
+responsáveis. Ela garante aos criadores controle sobre sua obra e mecanismos para capitalização
+justa, enquanto incentiva a colaboração aberta e democratiza o acesso ao investimento através da
+tokenização de ativos reais (RWA). A LIACC é projetada para equilibrar os interesses de criadores,
+contribuidores, investidores e a sociedade, descentralizando a concentração de poder tecnológico e
+financeiro.
+1. DEFINIÇÕES
+•Criador: Detentor original dos direitos da obra ou tecnologia.
+•Contribuidor: Qualquer parte que adicione valor significativo ao projeto.
+•Licenciado: Qualquer indivíduo ou entidade que utilize a obra sob estes termos.
+•Token RWA: Token lastreado em ativo real, representando direito econômico sobre receitas
+futuras.
+•Uso Comercial: Utilização com fins lucrativos, diretos ou indiretos.
+2. DIREITOS DO CRIADOR E PROTEÇÃO
+•2.1. O Criador detém todos os direitos de propriedade intelectual e moral.
+•2.2. A obra é registrada em Blockchain para proof-of-existence (prova de existência) e
+anterioridade em todas as suas fases.
+•2.3. É vedado a terceiros patentear, registrar ou reivindicar titularidade sobre a obra ou derivações
+diretas estabelecidas sob estas diretrizes.
+3. USO NÃO COMERCIAL (COMUNITÁRIO)
+•3.1. Permitido: Uso, estudo, modificação, distribuição não-comercial e derivações para pesquisa,
+educação e desenvolvimento pessoal.
+•3.2. Condição: Atribuição explícita ao Criador e manutenção desta licença em quaisquer
+redistribuições ou obras derivadas.
+4. USO COMERCIAL E CAPITALIZAÇÃO
+•4.1. Financiamento: O projeto é passível de financiamento através da aquisição de licenças
+comerciais ou tokens RWA.•4.2. Licença Comercial: O uso comercial requer uma licença comercial expressa, concedida pelo
+Criador, que definirá os termos e cotas de participação.
+•4.3. Modelos de Capitalização Permitidos:
+•a) Licenciamento Direto: Pagamento de royalties ou taxas de licença.
+•b) Tokenização RWA: Conversão de direitos econômicos em tokens negociáveis. Os detentores
+usufruem da valorização do token, conforme definido no Whitepaper econômico do projeto.
+•4.4. Reinvestimento Obrigatório: ≥50% das receitas comerciais líquidas devem ser reinvestidos
+no desenvolvimento do projeto (recursos serão destinados a um fundo bloqueado exclusivo para
+desenvolvimento e retroalimentação do projeto).
+5. TOKENIZAÇÃO E GOVERNANÇA
+•5.1. O Criador pode emitir tokens RWA para capitalizar o projeto.
+•5.2. Os tokens não conferem direito de propriedade intelectual ou controle operacional.
+•5.3. Podem conferir direito a voto em propostas de governança específicas (ex: direção de
+desenvolvimento), conforme definido no Whitepaper.
+•5.4. Um mecanismo de Tesouro Automatizado lastreado em Criptomoedas (ex: WBTC,
+Stablecoins) será estabelecido para garantir liquidez e estabilidade, com regras transparentes e
+executadas via contrato inteligente.
+6. CONTRIBUIÇÕES E PARTICIPAÇÃO
+•6.1. Contribuidores significativos podem receber:
+•a) Menção formal como coautor(es).
+•b) Participação nos tokens RWA do projeto, proporcional ao valor agregado.
+•6.2. Discordâncias sobre contribuição serão mediadas por um Conselho de Governança formado
+pelo Criador e representantes eleitos pelos detentores de tokens.
+7. TRANSPARÊNCIA E PRESTAÇÃO DE CONTAS
+•7.1. Relatórios financeiros trimestrais serão publicados na Blockchain, detalhando receitas,
+reinvestimentos e o estado do tesouro.
+•7.2. Os contratos inteligentes e mecanismos de tokenização serão auditados por firmas
+especializadas e seu código será aberto.
+8. ISENÇÃO DE GARANTIAS
+•A obra é fornecida "COMO ESTÁ", sem garantias de qualquer natureza, expressas ou implícitas.
+O Criador não é responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais
+decorrentes de seu uso.
+9. ACEITAÇÃO
+•O uso da obra ou a aquisição de tokens RWA implica na aceitação integral e irrestrita dos termos
+desta licença.10. JURISDIÇÃO E DISPUTAS
+•10.1. Esta licença será interpretada conforme os princípios de boa-fé e do direito internacional,
+visando sua validade universal.
+•10.2. As disputas serão resolvidas primariamente por consenso da comunidade. As partes
+envolvidas concordam expressamente em abdicar da via judicial estatal como primeira instância,
+assumindo integralmente os riscos inerentes.
+ANEXO A – POLÍTICA DE TOKENIZAÇÃO SUGERIDA
+1.Emissão: Os tokens representarão direitos a uma percentagem das receitas de licenciamento
+comercial.
+2.Tesouro: Um fundo lastreado em stablecoins e WBTC será constituído automaticamente com
+uma percentagem definida das transações.
+3.Mecanismos de Estabilidade: Incluirá travas anti-dump (ex: limite de venda por transação ou em
+ventana temporal) para proteger o valor de mercado do ativo contra manobras especulativas.
+4.Escassez Programada: Tokens vendidos ou utilizados em mecanismos de treasury serão
+queimados, reduzindo a oferta circulante e valorizando os tokens remanescentes.
+NOTA: Esta licença é um documento versátil e adaptável às necessidades de governança de cada
+projeto. Sua evolução será guiada pelo Conselho de Governança para reflectir a vontade da
+comunidade e a sustentabilidade do projeto, garantindo sempre os princípios fundamentais de
+abertura e justiça.
+Principais Refinamentos Realizados:
+•Clareza e Precisão Jurídica: Termos como "receitas líquidas" e "meios extrajudiciais" dão mais
+solidez.
+•Consistência: Garantir que todos os termos (como "atribuição" e "Whitepaper") são usados
+consistentemente.
+•Fluxo Lógico: Reorganizar as cláusulas para um fluxo mais natural (ex: definir financiamento
+antes dos modelos).
+•Reforço dos Mecanismos Técnicos: Linguagem mais forte para o treasury automatizado e queima
+de tokens.
