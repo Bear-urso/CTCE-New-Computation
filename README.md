@@ -56,9 +56,6 @@ Atenciosamente,Bear o densenvolvedor.
 Pesquisador Independente | Criador da Teoria CTCE e da linguagem Gebit
 
 
-
-SE NÃO FICOU CLARO O SUFICIÊNTE PORPOMOS NOSSO DESAFIO:
-
 CTCE-Proves:
 
 Computação por Topologia de Campos Eletromagnéticos.
@@ -82,7 +79,7 @@ Leia mais no blog https://ctceoficial.blogspot.com
 
 Desafio Experimental
 
-Duvida ou topa o desafio de provar a CTCE? 
+Desafio de provar a CTCE? 
 
 Participe do nosso desafio em três fases, usando componentes acessíveis 
 (protoboard, sensores Hall, bobinas, LEDs):
